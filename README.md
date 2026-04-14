@@ -10,17 +10,18 @@ This project aims to implement a classic interactive game using **Python** on th
 
 ## My Roles & Contributions / 個人貢獻與職責
 
-* **Quality Assurance & Functional Testing (QA) / 品質保證與功能測試**：
+* **Quality Assurance & Functional Testing (QA)**:
     Responsible for logic verification and edge-case testing to ensure system stability and performance. Identified and resolved bugs during the integration phase.
-    主責程式碼之邏輯驗證與邊界案例測試，確保系統運行的穩定性與效能。於模組整合階段主動發現並協助排除程式錯誤 (Bug)。
+   * **品質保證與功能測試**：主責程式碼之邏輯驗證與邊界案例測試，確保系統運行的穩定性與效能。於模組整合階段主動發現並協助排除程式錯誤 (Bug)。
 
-* **Technical Documentation & Design / 技術文件與流程設計**：
+* **Technical Documentation & Design**:
     Led the design of system architecture and flowcharts. Utilized **Canva** to translate complex code into a structured technical report.
-    主導系統架構圖與開發流程設計。利用 **Canva** 將複雜的代碼邏輯轉化為結構化的技術報告。
+    * **技術文件與流程設計**：主導系統架構圖與開發流程設計。利用 **Canva** 將複雜的代碼邏輯轉化為結構化的技術報告。
 
-* **Collaborative Development / 雲端協同開發**：
+* **Collaborative Development**:
     Managed the synchronization of code modules within Google Colab, ensuring consistent formatting and smooth integration between team members.
-    負責 Google Colab 環境中的代碼同步與管理，確保各成員負責的模組能順利對接並維持程式碼風格一致。
+     * **雲端協同開發**：負責 Google Colab 環境中的代碼同步與管理，確保各成員負責的模組能順利對接並維持程式碼風格一致。
+  
 
 ## Project Deliverables / 專案產出
 
