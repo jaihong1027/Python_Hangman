@@ -1,8 +1,6 @@
 # Python_Hangman
 A Python-based interactive game developed as a team project for the Basic Programming course. Awarded A+ (94/100). Focuses on system logic, functional testing, and collaborative workflow.
 
----
-
 ## Project Background / 專案背景
 This project aims to implement a classic interactive game using **Python** on the **Google Colab** cloud environment. As a team-based academic project, it emphasizes modular programming and collaborative development. By integrating core logic with user interaction, the system demonstrates the practical application of fundamental programming concepts.
 
